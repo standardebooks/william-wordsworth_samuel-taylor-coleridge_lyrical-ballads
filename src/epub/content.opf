@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-wordsworth/lyrical-ballads</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-11-19T00:05:38Z</meta>
+		<meta property="dcterms:modified">2015-11-19T01:45:09Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,7 +39,7 @@
 		<dc:source>http://archive.rc.umd.edu/editions/LB/html/Lb05-1.html</dc:source>
 		<dc:source>http://archive.rc.umd.edu/editions/LB/html/Lb05-2.html</dc:source>
 		<meta property="se:production-notes">Converted some archaic capitalizations to lowercase in the preface and endnotes.</meta>
-		<meta property="se:word-count">55467</meta>
+		<meta property="se:word-count">55468</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lyrical_Ballads</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-wordsworth_lyrical-ballads</meta>
 		<dc:creator id="author">William Wordsworth</dc:creator>
