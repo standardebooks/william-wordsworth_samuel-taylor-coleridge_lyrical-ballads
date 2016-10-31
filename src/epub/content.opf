@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-wordsworth/lyrical-ballads</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-08-26T22:50:38Z</meta>
-		<meta property="se:revision-number">36</meta>
+		<meta property="dcterms:modified">2016-10-31T20:12:30Z</meta>
+		<meta property="se:revision-number">37</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,7 +32,7 @@
 		<dc:description id="description">A collection of pastoral poems that is considered the defining text for the beginning of Romantic-era literature.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Lyrical Ballads&lt;/i&gt; is a collection of poems by William Wordsworth and his friend and contemporary Samuel Taylor Coleridge.  A hugely influential work, &lt;i&gt;Lyrical Ballads&lt;/i&gt; is generally acknowledged to have started the Romantic movement in English literature&amp;mdash;a period marked by a departure from the stiff and unapproachable poetry of earlier times, and by a focus on readable, relatable verse written in everyday language.  Many of Wordsworth&amp;rsquo;s poems focus on the natural world and the down-to-earth people of the country, another far departure from the rational and dry literature of old.  Romanticism was one of the largest sea changes in modern English literature, and &lt;i&gt;Lyrical Ballads&lt;/i&gt; was its catalyst.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Lyrical Ballads&lt;/i&gt; is a collection of poems by William Wordsworth and his friend and contemporary Samuel Taylor Coleridge.  A hugely influential work, &lt;i&gt;Lyrical Ballads&lt;/i&gt; is generally acknowledged to have started the Romantic movement in English literature—a period marked by a departure from the stiff and unapproachable poetry of earlier times, and by a focus on readable, relatable verse written in everyday language.  Many of Wordsworth’s poems focus on the natural world and the down-to-earth people of the country, another far departure from the rational and dry literature of old.  Romanticism was one of the largest sea changes in modern English literature, and &lt;i&gt;Lyrical Ballads&lt;/i&gt; was its catalyst.&lt;/p&gt;
 			&lt;p&gt;This ebook edition is based on the 1805 edition of &lt;i&gt;Lyrical Ballads&lt;/i&gt;, and features the famous poems &lt;i&gt;The Rime of the Ancient Mariner&lt;/i&gt;, &lt;i&gt;Tintern Abbey&lt;/i&gt;, &lt;i&gt;Expostulation and Reply&lt;/i&gt;, &lt;i&gt;Lucy Gray&lt;/i&gt;, and many others.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
