@@ -1,6 +1,10 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+abbr.name{
+	white-space: nowrap;
+}
+
 article{
 	page-break-after: always;
 }
@@ -47,7 +51,7 @@ p span.i3{
 	padding-left: 4em;
 }
 
-section > header{
+article > header{
 	text-align: center;
 }
 
@@ -67,6 +71,11 @@ section > header{
 section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	display: block;
 	font-size: .75em;
+	font-weight: normal;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
 	font-weight: normal;
 }
 
