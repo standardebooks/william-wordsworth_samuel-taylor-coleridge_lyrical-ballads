@@ -44,18 +44,18 @@
 		<meta property="se:reading-ease.flesch">68.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lyrical_Ballads</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-wordsworth_lyrical-ballads</meta>
-		<dc:creator id="author">William Wordsworth</dc:creator>
-		<meta property="file-as" refines="#author">Wordsworth, William</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Wordsworth</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006595</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="contributor">Samuel Taylor Coleridge</dc:contributor>
-		<meta property="file-as" refines="#contributor">Coleridge, Samuel Taylor</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge</meta>
-		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n78095462</meta>
-		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
+		<dc:creator id="author-1">William Wordsworth</dc:creator>
+		<meta property="file-as" refines="#author-1">Wordsworth, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/William_Wordsworth</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n79006595</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">ann</meta>
+		<dc:creator id="author-2">Samuel Taylor Coleridge</dc:creator>
+		<meta property="file-as" refines="#author-2">Coleridge, Samuel Taylor</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n78095462</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Caspar David Friedrich</dc:contributor>
 		<meta property="file-as" refines="#artist">Friedrich, Caspar David</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Caspar_David_Friedrich</meta>
