@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Lyrical Ballads</dc:title>
 		<meta property="file-as" refines="#title">Lyrical Ballads</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -37,15 +37,14 @@
 		<meta property="file-as" refines="#fulltitle">Lyrical Ballads, With Pastoral and Other Poems</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">English poetry -- 18th century</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/9622</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85043936</meta>
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of pastoral poems that is considered the defining text for the beginning of Romantic-era literature.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Lyrical Ballads&lt;/i&gt; is a collection of poems by William Wordsworth and his friend and contemporary Samuel Taylor Coleridge. A hugely influential work, &lt;i&gt;Lyrical Ballads&lt;/i&gt; is generally acknowledged to have started the Romantic movement in English literature—a period marked by a departure from the stiff and unapproachable poetry of earlier times, and by a focus on readable, relatable verse written in everyday language. Many of Wordsworth’s poems focus on the natural world and the down-to-earth people of the country, another far departure from the rational and dry literature of old. Romanticism was one of the largest sea changes in modern English literature, and &lt;i&gt;Lyrical Ballads&lt;/i&gt; was its catalyst.&lt;/p&gt;
 			&lt;p&gt;This ebook edition is based on the 1805 edition of &lt;i&gt;Lyrical Ballads&lt;/i&gt;, and features the famous poems &lt;i&gt;The Rime of the Ancient Mariner&lt;/i&gt;, “Tintern Abbey,” “Expostulation and Reply,” “Lucy Gray,” and many others.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://archive.rc.umd.edu/editions/LB/html/Lb05-1.html</dc:source>
 		<dc:source>http://archive.rc.umd.edu/editions/LB/html/Lb05-2.html</dc:source>
