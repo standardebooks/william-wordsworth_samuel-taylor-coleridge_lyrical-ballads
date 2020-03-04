@@ -69,3 +69,11 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+article h4[hidden]{
+	display: none; /* Just in case the ereader doesn't understand hidden */
+}
+
+article h4[hidden] + p{
+	margin-top: 4em;
+}
