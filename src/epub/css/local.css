@@ -73,11 +73,6 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [hidden]{
 	display: none !important; /* Just in case the ereader doesn't understand hidden */
 }
