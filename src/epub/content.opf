@@ -50,7 +50,7 @@
 		<dc:source>http://archive.rc.umd.edu/editions/LB/html/Lb05-1.html</dc:source>
 		<dc:source>http://archive.rc.umd.edu/editions/LB/html/Lb05-2.html</dc:source>
 		<meta property="se:production-notes">Converted some archaic capitalizations to lowercase in the preface and endnotes.</meta>
-		<meta property="se:word-count">55527</meta>
+		<meta property="se:word-count">55524</meta>
 		<meta property="se:reading-ease.flesch">68.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lyrical_Ballads</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-wordsworth_samuel-taylor-coleridge_lyrical-ballads</meta>
