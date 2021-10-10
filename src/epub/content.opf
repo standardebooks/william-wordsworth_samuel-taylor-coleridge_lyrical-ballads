@@ -47,8 +47,12 @@
 			&lt;p&gt;This ebook edition is based on the 1805 edition of &lt;i&gt;Lyrical Ballads&lt;/i&gt;, and features the famous poems &lt;i&gt;The Rime of the Ancient Mariner&lt;/i&gt;, “Tintern Abbey,” “Expostulation and Reply,” “Lucy Gray,” and many others.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://archive.rc.umd.edu/editions/LB/html/Lb05-1.html</dc:source>
-		<dc:source>http://archive.rc.umd.edu/editions/LB/html/Lb05-2.html</dc:source>
+		<!--Volume I-->
+		<dc:source>https://web.archive.org/web/20211010215437/http://ec2-52-90-79-236.compute-1.amazonaws.com/cgi-bin/LB/sgml2html_lballads.pl?fname=Lb05-1.sgm</dc:source>
+		<dc:source>https://archive.org/details/lyricalballads01wordgoog</dc:source>
+		<!--Volume II-->
+		<dc:source>https://web.archive.org/web/20211010215601/http://ec2-52-90-79-236.compute-1.amazonaws.com/cgi-bin/LB/sgml2html_lballads.pl?fname=Lb05-2.sgm</dc:source>
+		<dc:source>https://archive.org/details/lyricalballadsw00wordgoog</dc:source>
 		<meta property="se:production-notes">Converted some archaic capitalizations to lowercase in the preface and endnotes.</meta>
 		<meta property="se:word-count">55524</meta>
 		<meta property="se:reading-ease.flesch">68.33</meta>
