@@ -6,4 +6,10 @@
 			<reason>Quotations are part of a blockquote.</reason>
 		</ignore>
 	</file>
+	<file path="volume-1.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is correct.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
