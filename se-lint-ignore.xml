@@ -12,4 +12,10 @@
 			<reason>Matched text is correct.</reason>
 		</ignore>
 	</file>
+	<file path="volume-2.xhtml">
+		<ignore>
+			<code>y-033</code>
+			<reason>Matched text is correct.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
