@@ -62,9 +62,9 @@
 		<meta property="file-as" refines="#author-1">Wordsworth, William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/William_Wordsworth</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n79006595</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">wpr</meta>
-		<meta property="role" refines="#author-1" scheme="marc:relators">ann</meta>
 		<dc:creator id="author-2">Samuel Taylor Coleridge</dc:creator>
 		<meta property="file-as" refines="#author-2">Coleridge, Samuel Taylor</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge</meta>
