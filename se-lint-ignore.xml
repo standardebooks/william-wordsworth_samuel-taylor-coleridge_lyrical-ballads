@@ -6,6 +6,12 @@
 			<reason>Quotations are part of a blockquote.</reason>
 		</ignore>
 	</file>
+	<file path="volume-1.xhtml">
+		<ignore>
+			<code>y-036</code>
+			<reason>Matching quotes are in an earlier stanza.</reason>
+		</ignore>
+	</file>
 	<file path="volume-2.xhtml">
 		<ignore>
 			<code>y-033</code>
