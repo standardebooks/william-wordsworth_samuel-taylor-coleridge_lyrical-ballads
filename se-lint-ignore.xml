@@ -2,16 +2,22 @@
 <se-lint-ignore>
 	<file path="endnotes.xhtml">
 		<ignore code="t-003">
+			<line>23</line>
 			<reason>Quotations are part of a blockquote.</reason>
 		</ignore>
 	</file>
 	<file path="volume-1.xhtml">
 		<ignore code="y-036">
+			<line>5349</line>
+			<line>5394</line>
+			<line>5419</line>
+			<line>5661</line>
 			<reason>Matching quotes are in an earlier stanza.</reason>
 		</ignore>
 	</file>
 	<file path="volume-2.xhtml">
 		<ignore code="y-033">
+			<line>4167</line>
 			<reason>Matched text is correct.</reason>
 		</ignore>
 	</file>
